@@ -1,9 +1,9 @@
-import TrainingSelect from "./components/TrainingSelect";
+import WeekTrainingTable from "./components/WeekTrainingTable";
 
 const App = () => {
   return (
     <div>
-      <TrainingSelect />
+      <WeekTrainingTable />
     </div>
   );
 };
